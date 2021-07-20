@@ -1,3 +1,9 @@
+### STM32F103 DSP example
+
+An FIR low pass filter
+
+###
+
 An STM32F10x devices compiler toolchain based off of Mike Szczys's format and Devthrash's 'STM32F1-workarea'.
 
 My aim was to allow the user to compile a lib and link to that instead of manually adding the desired .c files. Not a whole lot of value added, but
